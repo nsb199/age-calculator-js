@@ -35,7 +35,8 @@ function calculateAge() {
       return "You should probably be dead 🙂";
     }
   
-    return `${ageYears} years, ${ageMonths} months, and ${ageDays} days`;
+    return `You are ${ageYears} years, ${ageMonths} months, and ${ageDays} days old`;
+
   }
   
   
